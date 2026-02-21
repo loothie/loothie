@@ -1,1 +1,1 @@
-cute will art by @cherytalah on x
+art by @cherytalah on x
