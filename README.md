@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-  <a href="https://unikitty.atabook.org/">atabook</a>
+  <a href="https://effy.atabook.org/">atabook</a>
 </p>
 
 <p align="center">
