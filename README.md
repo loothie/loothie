@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://atabook.org/unikitty">atabook</a>
+  <a href="https://unikitty.atabook.org/">atabook</a>
 </p>
 
 <p align="center">
